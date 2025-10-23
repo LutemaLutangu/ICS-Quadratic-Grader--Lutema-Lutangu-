@@ -6,7 +6,7 @@ This single-page web app performs two functions:
  lnPUtS.•
 -	a, b, c Coefficients of the quadratic equation
 -	Validation ensures:  a' cannot be 0
--	All inputs must be valid numbers
+-	All inputs  must be valid numbers
  Outputs:
 -	Discriminant (D = b 2 - 4ac) - Nature of roots:
 -	D > 0 -+ Two distinct real roots
